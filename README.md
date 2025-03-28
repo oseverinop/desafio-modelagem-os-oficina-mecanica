@@ -35,7 +35,7 @@ Os relacionamentos foram definidos com base na narrativa e incluem:
 - Associação de Peças a Ordens de Serviço (N:N)
 
 ### Esquema Conceitual
-![Esquema Conceitual](Esquema Conceitual OS Oficina Mecânica.png)
+![Esquema Conceitual](./Esquema Conceitual OS Oficina Mecânica.png)
 
 ---
 
