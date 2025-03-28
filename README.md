@@ -3,8 +3,14 @@
 ## Descrição do Desafio
 Este projeto tem como objetivo criar um esquema conceitual de um banco de dados para um sistema de controle e gerenciamento de ordens de serviço em uma oficina mecânica. A partir da narrativa fornecida, foi desenvolvida uma solução detalhada contemplando as entidades, atributos e relacionamentos necessários para atender ao contexto descrito.
 
+## Instrutora
+- [Juliana Mascarenhas](#)
+
 ## Objetivo
 Criar o esquema conceitual do banco de dados para uma oficina mecânica, garantindo a organização e o controle eficientes das informações de clientes, veículos, equipes, mecânicos, ordens de serviço, serviços e peças.
+
+## Ferramentas Utilizadas
+- MySQL Workbench
 
 ## Narrativa
 O sistema foi concebido para atender às seguintes necessidades:
@@ -35,8 +41,9 @@ Os relacionamentos foram definidos com base na narrativa e incluem:
 - Associação de Peças a Ordens de Serviço (N:N)
 
 ### Esquema Conceitual
-![Esquema Conceitual](./Esquema Conceitual OS Oficina Mecânica.png)
+O Esquema Conceitual elaborado pode ser visualizado abaixo:
+![Esquema Conceitual](https://github.com/oseverinop/desafio-modelagem-os-oficina-mecanica/blob/e0a188f4bd097c7d9f5a056671f3f71080c6f584/Esquema%20Conceitual%20OS%20Oficina%20Mec%C3%A2nica.png)
 
 ---
 
-Este documento serve como guia para a compreensão do desafio e da solução proposta. Caso surjam dúvidas ou a necessidade de ajustes, entre em contato para melhorias.
+> Este projeto foi desenvolvido como parte do bootcamp da DIO - Heineken - Inteligência Artificial Aplicada a Dados com Copilot, e é um excelente exemplo de aplicação prática de conceitos de modelagem de banco de dados. Este documento serve como guia para a compreensão do desafio e da solução proposta. Caso surjam dúvidas ou a necessidade de ajustes, entre em contato para melhorias.
